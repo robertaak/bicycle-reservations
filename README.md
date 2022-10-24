@@ -32,8 +32,8 @@ Darba apskate:
 - lai pārbaudītu testus: `php artisan test`.
 
 Lai ielogotos sistēmā:
-e-pasts: darbinieks<1-16>@uznemums.lv;
-parole: 12345678
+- e-pasts: `darbinieks<1-16>@uznemums.lv`;
+- parole: `12345678`
 
 
 
