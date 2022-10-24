@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+@font-face {
+    font-family: 'Firefly';
+    font-style: normal;
+    font-weight: normal;
+    src: url(http://example.com/fonts/firefly.ttf) format('truetype');
+}
